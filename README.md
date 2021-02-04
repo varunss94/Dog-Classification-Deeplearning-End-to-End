@@ -4,7 +4,7 @@ Dog Breed Classification Competition on Kaggle using Tensorflow 2.0 and Tensorfl
 ![Screenshot](dog_predict.png)
 
 ## Run  
-Run directly using Google Colab (https://colab.research.google.com/github/varunss94/Dog-Classification-Deeplearning-End-to-End/blob/main/dog_vision.ipynb) 
+Run directly using Google Colab - https://colab.research.google.com/github/varunss94/Dog-Classification-Deeplearning-End-to-End/blob/main/dog_vision.ipynb 
 
 ### Installation Requirments
 
@@ -30,19 +30,19 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 The data is from the Kaggle's dog breed identification competition.
 
-(https://www.kaggle.com/c/dog-breed-identification/data)
+https://www.kaggle.com/c/dog-breed-identification/data
 
 ### Evaluation
 The evluation is a file with prediction for each dog breed of each test image.
 
-(https://www.kaggle.com/c/dog-breed-identification/overview/evaluation)
+https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 
 ### Features
 Some information of the data:
 
-We are dealing with ustructured data - images so it is best to used Deep Learning/Transfer Learning
-There are 120 breeds of dogs (120 different classes)
-There are around 10,000+ images in the training set
-There are around 10,000+ images in the test set
+- We are dealing with ustructured data - images so it is best to used Deep Learning/Transfer Learning
+- There are 120 breeds of dogs (120 different classes)
+- There are around 10,000+ images in the training set
+- There are around 10,000+ images in the test set
 
 
